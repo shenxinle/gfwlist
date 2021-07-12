@@ -8295,10 +8295,10 @@ ultrasurf
 !--  @@||update.googleapis.com
 !--  @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
+!--  @@||connectivitycheck.gstatic.com
+!--  @@||csi.gstatic.com
+!--  @@||fonts.gstatic.com
+!--  @@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
